@@ -10,7 +10,9 @@
 
 */
 
-
+function lamia() {
+    return 'la salida';
+}
 
 
 

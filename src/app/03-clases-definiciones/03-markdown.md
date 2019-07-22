@@ -1,3 +1,9 @@
+---
+noteId: "2c0b9e00a8fa11e998bcd37a20b305d8"
+tags: []
+
+---
+
 # Tips
 ```
 command + P : Markdown Open Preview
